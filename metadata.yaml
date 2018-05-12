@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6767
     wikipedia: http://en.wikipedia.org/wiki/Bahá'u'lláh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19240#Bah----Prayers--13-A-Selection-of-Prayers-Revealed-by-Bah--u-ll-h-the-B-b-and--Abdu-l-Bah-
 gutenberg_bookshelf: Bahá'í Faith
 gutenberg_issued: '2006-09-12'
 gutenberg_type: Text
